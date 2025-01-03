@@ -1,0 +1,13 @@
+{
+    "faction": "Forgeurs",
+    "level": 1,
+    "credits": 1000,
+    "completed_missions": [],
+    "tools": [],
+    "hardware": {},
+    "stats": {
+        "successful_hacks": 0,
+        "failed_attempts": 0
+    },
+    "last_save": "2025-01-03T03:36:40.698263"
+}
